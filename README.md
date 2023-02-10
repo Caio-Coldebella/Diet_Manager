@@ -15,8 +15,8 @@
  lembrar de adicionar o .env.development na raíz do back-end
  
  ## Executando o projeto (com Node)
- Clonar os repositórios front-end e back-end, adicionar o .env no front e o .env.development no back-end. Executar o front-end com "npm run start", e o back-end
- com "npm run dev"
+ Clonar os repositórios front-end e back-end, adicionar o .env no front e o .env.development no back-end a partir dos exemplos .env.example. Executar "npm i" tanto no front quanto no back. Executar o front-end com "npm run start", e o back-end
+ com "npm run init"
  
  ## Link dos repositórios
  Front-end: https://github.com/Caio-Coldebella/gerenciador_dieta_frontend <br/>
